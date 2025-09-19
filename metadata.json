@@ -1,0 +1,5 @@
+{
+  "name": "SSImage Creator",
+  "description": "An application that allows users to generate character images using Gemini AI. Users can upload an image, provide descriptions, and generate new visuals.",
+  "requestFramePermissions": []
+}
